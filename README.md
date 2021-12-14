@@ -1,6 +1,8 @@
 # Online-Retail-Customer-Segmentation
 
 # About this Project:
+![rfm_model](https://user-images.githubusercontent.com/86041863/145954897-b729509c-5bcf-44e3-be5d-6b90d411f3ad.png)
+
 
 This is a Unsupervised Machine learning Capstone project.
 
